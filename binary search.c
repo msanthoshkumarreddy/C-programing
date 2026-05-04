@@ -1,5 +1,5 @@
-#include <stdio.h>
-void main() {
+#include<stdio.h>
+void main(){
   int i,n,key,a[100];
   printf("enter no of ele");
   scanf("%d",&n);
